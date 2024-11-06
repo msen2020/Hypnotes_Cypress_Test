@@ -1,0 +1,19 @@
+{
+  "name": "hypnotes_test",
+  "version": "1.0.0",
+  "description": "Hypnotes Test Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msen2020/Hypnotes_Cypress_Test.git"
+  },
+  "author": "QA MSEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msen2020/Hypnotes_Cypress_Test/issues"
+  },
+  "homepage": "https://github.com/msen2020/Hypnotes_Cypress_Test#readme"
+}
